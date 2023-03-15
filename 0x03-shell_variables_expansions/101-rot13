@@ -1,0 +1,2 @@
+#!bin/bash
+echo 'yeboahstephen679@gmail.com' | rot13
