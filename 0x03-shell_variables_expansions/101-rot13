@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'yeboahstephen679@gmail.com' | rot13
+tr 'A-za-z' 'N-ZA-Mn-za-m'
